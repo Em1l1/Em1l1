@@ -1,0 +1,14 @@
+
+// keybindings.json
+// create new file 
+// create new directory
+[{
+  "key": "ctrl+shift+n",
+  "command": "explorer.newFolder",
+  "when": "filesExplorerFocus"
+},{
+  "key": "ctrl+n",
+  "command": "explorer.newFile",
+  "when": "filesExplorerFocus"
+}
+]

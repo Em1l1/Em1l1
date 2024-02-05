@@ -1,0 +1,20 @@
+{
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.cursorStyle": "line-thin",
+    "vim.handleKeys": {
+        "<C-f>": false,
+        "<C-d>": false,
+        "<C-z>": false
+    },
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#48dbfb",
+        "terminalCursor.foreground": "#fff"
+    }
+}
